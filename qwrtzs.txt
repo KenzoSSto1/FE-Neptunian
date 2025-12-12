@@ -1,10 +1,10 @@
---- Did actually rework heavily away from original neptunian, and the non-rework neptunian. --NoobyGames12
---- Was supposed to be for the770zone, or VengefulProgram.
+--- Did actually rework heavily away from original neptunian, and the non-rework neptunian. --CoDevs Studios
+--- Was supposed to be for Team CoDevs, or VengefulProgram.
 
 warn'Neptune/Neptunian V'
 warn[[Absolutely.
 
-Created by NoobyGames12
+Created by CoDevs Studios ®
 ----------------------------]]
 
 print[[Set your theme by: 
@@ -18,7 +18,7 @@ warn("Have fun using this!")
 ---- DO NOT CHANGE ANYTHING BELOW IF YOU'RE NOT AN EDITOR 
 
 
---Converted with ttyyuu12345's model to script plugin v4
+--Converted with Pemerintah_indo's model to script plugin v4
 function sandbox(var,func)
 	local env = getfenv(func)
 	local newenv = setmetatable({},{
@@ -7591,4 +7591,5 @@ LW.C0=clerp(LW.C0,cf(-1.5,0.5,0 - 0.5 * math.cos(sine / 6))*angles(math.rad(0 + 
 end
 end
 end
+
 end
